@@ -1,6 +1,5 @@
+
 gsap.registerPlugin( DrawSVGPlugin);
-
-
 
 
 if (document.querySelector(".side-nav")) {
@@ -12,7 +11,6 @@ if (document.querySelector(".side-nav")) {
         menuBtn.classList.toggle('active')
     })
 }
-
 
 
 var swiper = new Swiper(".slider", {
