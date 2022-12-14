@@ -849,8 +849,8 @@ p {
           align-items: center;
 }
 
-.bottom-strip .strip-info.copyright .info .detail p {
-  font-size: 18px;
+.bottom-strip .strip-info.copyright .info p {
+  font-size: 16px;
   margin-bottom: 6px;
 }
 

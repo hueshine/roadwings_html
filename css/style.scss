@@ -831,13 +831,10 @@ p{
                 display: flex;
                 flex-wrap: wrap;
                 align-items: center;
-
-                .detail{
-
-                    p{
-                        font-size: 18px;
-                        margin-bottom: 6px;
-                    }
+                
+                p{
+                    font-size: 16px;
+                    margin-bottom: 6px;
                 }
             }
         }
