@@ -850,8 +850,9 @@ p {
 }
 
 .bottom-strip .strip-info.copyright .info p {
-  font-size: 16px;
+  font-size: 15px;
   margin-bottom: 6px;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 480px) {
